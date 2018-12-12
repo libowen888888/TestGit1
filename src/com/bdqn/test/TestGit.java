@@ -6,5 +6,7 @@ public class TestGit {
 
         System.out.println("我是一个测试github的类");
 
+        System.out.println("====");
+
     }
 }
